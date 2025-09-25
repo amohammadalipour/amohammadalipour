@@ -32,5 +32,5 @@ My M.S. thesis focuses on the molecular mechanisms of prostate cancer cell plast
 
 📫 **How to reach me:**
 
-*   **Email:** `amir.alipour@ut.ac.ir` (Feel free to reach out for collaborations or questions!)
+*   **Email:** `amir.alipour@ut.ac.ir` 
 *   **LinkedIn:** `linkedin.com/in/amirhma`
